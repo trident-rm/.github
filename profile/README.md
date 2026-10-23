@@ -1,4 +1,4 @@
-# Herkules
+# Trident
 
 RoboMaster robotics team: embedded control, vision, navigation and the tooling around them.
 
